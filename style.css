@@ -80,6 +80,10 @@ body {
     justify-content: left;
   }
 
+#title:hover {
+    color: hsl(47, 88%, 63%);
+}
+
 #descriptionText {
     display:flex;
     margin-top: 10px;
