@@ -28,7 +28,7 @@ body {
     padding: 20px;
     flex-direction: column;
     flex: 6;
-    justify-content: center;
+    justify-content: start;
 }
 
 #firstSpace {
